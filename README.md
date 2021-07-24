@@ -1,1 +1,1 @@
-# password-GUI
+# Randomized Password Generator
